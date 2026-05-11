@@ -1,0 +1,8 @@
+{
+  "name": "opengl-study",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "assimp",
+    "glfw3"
+  ]
+}

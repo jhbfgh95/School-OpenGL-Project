@@ -1,0 +1,36 @@
+# Build output
+build/
+build-*/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Executables, libraries, and debug files
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+
+# IDE/editor
+.vs/
+.vscode/.browse.VC.db*
+.vscode/ipch/
+*.suo
+*.user
+*.userosscache
+
+# Packaged/demo output
+Demo/
+
+# OS files
+Thumbs.db
+.DS_Store
